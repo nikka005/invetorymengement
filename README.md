@@ -1,0 +1,2 @@
+# invetorymengement
+for shops
